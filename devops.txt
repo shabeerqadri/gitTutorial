@@ -1,3 +1,4 @@
 Welcome to DevOps
 Welecome to devOps/gitHub tutorial
 DeOps components
+Jenkins, gitHub, docker, 
